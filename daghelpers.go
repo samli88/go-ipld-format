@@ -3,7 +3,7 @@ package format
 import (
 	"context"
 
-	cid "github.com/ipfs/go-cid"
+	cid "github.com/samli88/go-cid"
 )
 
 // GetLinks returns the CIDs of the children of the given node. Prefer this

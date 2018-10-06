@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	blocks "github.com/ipfs/go-block-format"
-	cid "github.com/ipfs/go-cid"
-	mh "github.com/multiformats/go-multihash"
+	cid "github.com/samli88/go-cid"
+	mh "github.com/samli88/go-multihash"
 )
 
 func init() {

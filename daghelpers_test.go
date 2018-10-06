@@ -2,8 +2,8 @@ package format
 
 import (
 	"context"
-	"github.com/ipfs/go-cid"
-	mh "github.com/multiformats/go-multihash"
+	"github.com/samli88/go-cid"
+	mh "github.com/samli88/go-multihash"
 	"testing"
 )
 

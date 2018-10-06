@@ -6,7 +6,7 @@ import (
 
 	blocks "github.com/ipfs/go-block-format"
 
-	cid "github.com/ipfs/go-cid"
+	cid "github.com/samli88/go-cid"
 )
 
 type Resolver interface {
