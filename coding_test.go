@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	blocks "github.com/ipfs/go-block-format"
+	blocks "github.com/samli88/go-block-format"
 	cid "github.com/samli88/go-cid"
 	mh "github.com/samli88/go-multihash"
 )

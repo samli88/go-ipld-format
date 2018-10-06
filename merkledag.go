@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	cid "github.com/ipfs/go-cid"
+	cid "github.com/samli88/go-cid"
 )
 
 var ErrNotFound = fmt.Errorf("merkledag: not found")
